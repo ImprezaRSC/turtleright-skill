@@ -7,6 +7,7 @@ This executes the vector command "rostopic pub /turtle1/cmd_vel geometry_msgs/tw
 ## Examples
  - "Right"
  - "Turtle right"
+ - "Bank right"
 
 
 ## Credits
